@@ -10,7 +10,4 @@ Enjoy !
 
 Il y a un compte admin existant de base :
 nom_utilisateur : admin
-password : admin2021
-
-Petite précision
-Pour le moment il n'y a que la partie création de compte, login et logout, compte et update de compte qui sont fonctionnels. Des nouvelles fonctionnalités seront disponible d'ici peu.
+password : Admin2021
