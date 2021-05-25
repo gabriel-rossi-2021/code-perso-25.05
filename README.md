@@ -10,3 +10,5 @@ Configuration :<br><br>
 Il y a un compte admin existant de base :<br>
 Nom d'utilisateur : admin <br>
 Mot de passe : Admin 2021
+
+PS : Bonne visite ! 
