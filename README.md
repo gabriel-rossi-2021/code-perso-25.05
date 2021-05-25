@@ -1,13 +1,13 @@
-# code-perso-bootstrap
-Configuration :
-Ouvrez  le dossier database -> NOM_PRENOM_INFO1X_SUJET_104_2021 copier tout le code de ce fichier.
+Configuration :<br><br>
+	1. Dans PyCharm ouvrir le répertoire "database", puis ouvrir le fichier " NOM_PRENOM_INFO1X_SUJET_104_2021".<br>
+	1.1 Séléctionner tout le contenu de ce fichier (ctrl + a) et coller le dans votre PhpMyAdmin dans l'onglet "SQL"<br>
+  
+  2 . Ensuite  faite un clic droit sur le fichier qui se trouve à la racine nommé "1_run_server_flask.py" et faire un "run".<br>
+  2.1 Si il y une/des erreur(s) aller dans le fichier ".env" qui se trouve à la racine et contrôlez les indication  de connexion pour la bd .
+  
+  Si vous n'avez plus d'erreur  cliqué sur le lien qui se trouv dans la console ou rendez sur  :http://127.0.0.1:5005/
+  
+Il y a un compte admin existant de base :<br><br>
+nom d'utilisateur :  admin
 
-Ouvrez Xampp ou Wamp ou Uwamp... et lancez votre serveur SQL et votre serveur Apache. Rendez vous sur PhpMyAdmin et collez le fichier précédemment copié dans l'onglet SQL de manière à executer le SQL.
-
-Une fois fini executer le fichier 1_run_server_flask.py
-
-Enjoy !
-
-Il y a un compte admin existant de base :
-nom_utilisateur : admin
 password : Admin2021
